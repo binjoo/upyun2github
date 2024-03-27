@@ -1,0 +1,11 @@
+name: action
+author: binjoo
+description: upyun sync to another repository
+
+runs:
+  using: docker
+  image: Dockerfile
+
+branding:
+  icon: activity
+  color: green
